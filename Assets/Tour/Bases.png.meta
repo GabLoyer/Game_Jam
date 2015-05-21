@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 8b78a483e6b03de46a7cefc6af717f6c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bases_0
+    21300002: Bases_1
+    21300004: Bases_2
+    21300006: Bases_3
+    21300008: Bases_4
+    21300010: Bases_5
+    21300012: Bases_6
+    21300014: Bases_7
+    21300016: Bases_8
+    21300018: Bases_9
+    21300020: Bases_10
+    21300022: Bases_11
+    21300024: Bases_12
+    21300026: Bases_13
+    21300028: Bases_14
+    21300030: Bases_15
+    21300032: Bases_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bases_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2120
+        width: 276
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bases_1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2120
+        width: 314
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bases_2
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 2120
+        width: 323
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bases_3
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 2099
+        width: 379
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bases_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1584
+        width: 277
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bases_5
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1581
+        width: 323
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bases_6
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1581
+        width: 339
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bases_7
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1581
+        width: 387
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bases_8
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 1311
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bases_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1027
+        width: 277
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bases_10
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1024
+        width: 322
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bases_11
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1024
+        width: 340
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bases_12
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1024
+        width: 389
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bases_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 515
+        width: 277
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bases_14
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 512
+        width: 322
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bases_15
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 512
+        width: 341
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bases_16
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 512
+        width: 387
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
