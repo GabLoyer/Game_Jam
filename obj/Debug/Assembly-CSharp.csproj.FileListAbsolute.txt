@@ -1,1 +1,12 @@
 C:\Users\JonusIV\Documents\Game_Jam\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\JonusIV\Documents\Game_Jam\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\JonusIV\Documents\Game_Jam\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\JonusIV\Documents\Game_Jam\Temp\bin\Debug\UnityEditor.dll
+C:\Users\JonusIV\Documents\Game_Jam\Temp\bin\Debug\UnityEngine.dll
+C:\Users\JonusIV\Documents\Game_Jam\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\JonusIV\Documents\Game_Jam\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\JonusIV\Documents\Game_Jam\Temp\bin\Debug\nunit.framework.dll
+C:\Users\JonusIV\Documents\Game_Jam\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\JonusIV\Documents\Game_Jam\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\JonusIV\Documents\Game_Jam\obj\Debug\Assembly-CSharp.dll
+C:\Users\JonusIV\Documents\Game_Jam\obj\Debug\Assembly-CSharp.pdb

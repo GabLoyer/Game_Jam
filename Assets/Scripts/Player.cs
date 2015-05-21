@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using UnityEngine;
 
+//Class controlling the game
+
 public class Player : MonoBehaviour
 {
 
@@ -15,12 +17,16 @@ public class Player : MonoBehaviour
     //Attributs pour la création d'une nouvelle tour
     Ray ray;
     RaycastHit hit;
-    public GameObject prefab;
     Vector3 PosCurseur;
+    //Will be instansiate by unity
+    public GameObject prefab;
+
+
 
     int Score { get; set; }
     int Argent { get; set; }
-    int NbVieRestantes { get; set; }
+    public int NbVieRestantes { get; protected set; }
+    public Map MapCourante { get; protected set; }
 
     List<GameObject> ListTours { get; set; }
 

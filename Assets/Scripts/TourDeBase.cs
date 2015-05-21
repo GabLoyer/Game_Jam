@@ -10,7 +10,7 @@ public class TourDeBase : MonoBehaviour, ITourAttaque
         protected enum EPortee  { N1 = 50, N2 = 100, N3 = 150, N4 = 200 }
         protected enum EDommage { N1 = 50, N2 = 100, N3 = 150, N4 = 200 }
         protected enum ECout { N1 = 50, N2 = 100, N3 = 150, N4 = 200 }
-        //Cadence de tir, en Tir par  msseconde
+        //Cadence de tir, en Tir par msseconde
         protected enum ECadenceTir { N1 = 500, N2 = 400, N3 = 300, N4 = 200 }
 
 
@@ -116,7 +116,7 @@ public class TourDeBase : MonoBehaviour, ITourAttaque
 			}
 		}
 
-	//values for internal use
+
 	private Quaternion _lookRotation;
 	private Vector3 _direction;
 

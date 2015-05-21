@@ -51,6 +51,8 @@ public class Ennemi : MonoBehaviour, IEnnemi {
 	}
 
 	public void Pathfinding(){
+        //TODO
+
         gameObject.transform.position = new Vector3(gameObject.transform.position.x, gameObject.transform.position.y - .002f, gameObject.transform.position.z);
 	}
 }
