@@ -124,6 +124,7 @@ public class TourDeBase : MonoBehaviour, ITourAttaque
 	{
 		float RotationSpeed = 5f;
 		Transform canon = transform.FindChild("Cannon");
+		//Transform canon = this.transform;
 		//gameObject.transform.FindChild("Cannon").transform.LookAt(Cible.transform);
 		//find the vector pointing from our position to the target
 		_direction = (Cible.transform.position - canon.position).normalized;

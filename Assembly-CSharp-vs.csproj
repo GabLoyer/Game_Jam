@@ -50,6 +50,7 @@
      <Compile Include="Assets\Scripts\GenerateurMonstre.cs" />
      <Compile Include="Assets\Scripts\IEnnemi.cs" />
      <Compile Include="Assets\Scripts\ITour.cs" />
+     <Compile Include="Assets\Scripts\Map.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\TourAttaque.cs" />
      <Compile Include="Assets\Scripts\TourDeBase.cs" />

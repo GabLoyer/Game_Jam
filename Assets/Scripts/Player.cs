@@ -74,7 +74,7 @@ public class Player : MonoBehaviour
                 //On parcours les enfants afin de trouver la ou les bases de la tour
                 foreach (Transform child in tour.transform)
                 {
-                    if (child.collider2D.bounds.Intersects(new Bounds(new Vector3(pos.x, pos.y, 0), child.collider2D.bounds.size)))
+                    if (child.collider2D.bounds.Intersects(new Bounds(new Vector3(pos.x, pos.y, 0), tour.collider2D.bounds.size)))
                     {
                         EnCollision = true;
                         print("Collision détecté avec le placement d'une tour.");
